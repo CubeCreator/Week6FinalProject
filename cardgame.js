@@ -90,6 +90,7 @@ function fullDeck () {
         })
     })
 }
+console.log(fullDeck())
 
 class Player {
     constructor(playerName) {
